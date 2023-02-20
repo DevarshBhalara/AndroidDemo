@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("SomeNewFeature2" , "Feature 2 added here")
 
+        /*kjubiuiughi*/
+
     }
 
 

@@ -2,7 +2,6 @@ package com.example.myapplication2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Toolbar
 
 class MainActivity : AppCompatActivity() {
@@ -12,7 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         val toolbar = findViewById(R.id.toolbar) as Toolbar? ;
 
-        Log.e("New Fetature" , "Feature branch craeted")
 
     }
 
